@@ -1,19 +1,17 @@
-### Hi there, I'm Luis Gamino 👋
+<h1 align="center">Hi 👋, I'm Luis Gamino</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neiktan&label=Profile%20views&color=0e75b6&style=flat" alt="neiktan" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Mexican+Junio+Frontend;Cybersecurity+Researcher;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 Mexican Junior, Cybersecurity researcher,  💻💖☕
 
-<h1 align="center">Hi 👋, I'm Luis Gamino</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neiktan&label=Profile%20views&color=0e75b6&style=flat" alt="neiktan" /> </p>
+- 🌱 I’m currently learning: **Frontend and more languages**
 
-- 🌱 I’m currently learning **Frontend and more languages**
+- 💬 Ask me about: **my favorite food!**
 
-- 💬 Ask me about **my favorite food!**
+- 📫 How to reach me: **wichoalguiar@gmail.com**
 
-- 📫 How to reach me **wichoalguiar@gmail.com**
-
-- ⚡ Fun fact **I like videogames**
+- ⚡ Fun fact: **I like videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
