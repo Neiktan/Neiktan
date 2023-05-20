@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Gamino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neiktan&label=Profile%20views&color=0e75b6&style=flat" alt="neiktan" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Mexican+Junio+Frontend;Cybersecurity+Researcher;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Mexican+Junior+Frontend;Cybersecurity+Researcher;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 Mexican Junior, Cybersecurity researcher,  💻💖☕
 
