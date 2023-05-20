@@ -1,8 +1,14 @@
 ### Hi there, I'm Luis Gamino 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Mexican+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Mexican+Junio+Frontend;Cybersecurity+Researcher;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 Mexican Junior, Cybersecurity researcher,  💻💖☕
+
+## 🎧 Spotify Playing
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/0lexdvha0o8soza63qgfisvmv)
+</div>
 
 
 <!--
