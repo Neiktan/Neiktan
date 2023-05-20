@@ -1,8 +1,10 @@
 ### Hi there, I'm Luis Gamino 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" a alt="Example Usage - README Typing SVG">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+Mexican Junior, Cybersecurity researcher,  💻💖☕
+
+🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
 <!--
 **Neiktan/Neiktan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
