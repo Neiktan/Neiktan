@@ -1,10 +1,9 @@
 ### Hi there, I'm Luis Gamino 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Mexican+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 Mexican Junior, Cybersecurity researcher,  💻💖☕
 
-🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
 <!--
 **Neiktan/Neiktan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
